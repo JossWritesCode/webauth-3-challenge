@@ -15,7 +15,7 @@ In this project we'll implement a full authentication workflow (register/login/l
 
 - **Fork** and **Clone** this repository.
 - **CD into the folder** where you cloned the repository.
-- Do your magic!
+- Do your magic!!!
 
 ## Assignment
 
